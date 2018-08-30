@@ -1,0 +1,9 @@
+﻿  Board.cpp
+  Generating Code...
+  Compiling...
+  TicTacToeGame.cpp
+e:\projects\upwork\ongoing\shiva\tictactoe\shiva_tictactoe\tictactoegame\tictactoegame\tictactoegame.cpp(125): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Main.cpp
+  TicTacToeGame.vcxproj -> E:\Projects\Upwork\OnGoing\Shiva\TicTacToe\Shiva_TicTacToe\TicTacToeGame\Debug\TicTacToeGame.lib

@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TicTacToeGame", "TicTacToeGame\TicTacToeGame.vcxproj", "{454E5C3A-CBCC-499C-909A-9F52550F436A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TicTacToeGameTest", "TicTacToeGameTest\TicTacToeGameTest.vcxproj", "{21F32736-5B51-4EF4-AE3C-F7647BE867C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{454E5C3A-CBCC-499C-909A-9F52550F436A}.Debug|x64.ActiveCfg = Debug|x64
+		{454E5C3A-CBCC-499C-909A-9F52550F436A}.Debug|x64.Build.0 = Debug|x64
+		{454E5C3A-CBCC-499C-909A-9F52550F436A}.Debug|x86.ActiveCfg = Debug|Win32
+		{454E5C3A-CBCC-499C-909A-9F52550F436A}.Debug|x86.Build.0 = Debug|Win32
+		{454E5C3A-CBCC-499C-909A-9F52550F436A}.Release|x64.ActiveCfg = Release|x64
+		{454E5C3A-CBCC-499C-909A-9F52550F436A}.Release|x64.Build.0 = Release|x64
+		{454E5C3A-CBCC-499C-909A-9F52550F436A}.Release|x86.ActiveCfg = Release|Win32
+		{454E5C3A-CBCC-499C-909A-9F52550F436A}.Release|x86.Build.0 = Release|Win32
+		{21F32736-5B51-4EF4-AE3C-F7647BE867C5}.Debug|x64.ActiveCfg = Debug|x64
+		{21F32736-5B51-4EF4-AE3C-F7647BE867C5}.Debug|x64.Build.0 = Debug|x64
+		{21F32736-5B51-4EF4-AE3C-F7647BE867C5}.Debug|x86.ActiveCfg = Debug|Win32
+		{21F32736-5B51-4EF4-AE3C-F7647BE867C5}.Debug|x86.Build.0 = Debug|Win32
+		{21F32736-5B51-4EF4-AE3C-F7647BE867C5}.Release|x64.ActiveCfg = Release|x64
+		{21F32736-5B51-4EF4-AE3C-F7647BE867C5}.Release|x64.Build.0 = Release|x64
+		{21F32736-5B51-4EF4-AE3C-F7647BE867C5}.Release|x86.ActiveCfg = Release|Win32
+		{21F32736-5B51-4EF4-AE3C-F7647BE867C5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B37F0DE-DE9B-4B41-9724-A594DF65733C}
+	EndGlobalSection
+EndGlobal
